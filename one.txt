@@ -1,1 +1,2 @@
 This is one.txt file
+After facing some problem I have succed to do first commit
